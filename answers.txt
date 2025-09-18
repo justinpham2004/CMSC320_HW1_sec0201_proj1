@@ -6,4 +6,15 @@ Answer: Version control, concurrent development, sharing with different develope
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Literally any major company requires the use of data. For example: AI requires training data, and data science will help clean and provide data that is machine readable.
+
+Q3: What is the difference between Merging and Rebasing
+
+Answer: Merge: brings changes together by adding a merge commit.
+
+Rebase: moves commits to start on top of another branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Graduating
+
 >>>>>>> q2
